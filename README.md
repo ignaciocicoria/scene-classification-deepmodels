@@ -11,7 +11,7 @@ El objetivo es construir y comparar distintos modelos de **Deep Learning** capac
   - Redes Neuronales Densas (Fully Connected Networks)
   - Redes Neuronales Convolucionales (CNN)
   - Arquitecturas basadas en **ResNet**
-  - Modelos con **Transfer Learning** (por ejemplo, EfficientNetB0 o ResNet50 preentrenadas)
+  - Modelos con **Transfer Learning** (EfficientNetB0)
 - Comparar el desempeño de cada enfoque según su precisión en el conjunto de validación/test.
 - Analizar los resultados y observar la generalización de los modelos ante escenas similares.
 
